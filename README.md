@@ -1,9 +1,6 @@
 # What?
 
-- DynamicForm
-  - Formik
-  - Yup
-  - Tailwind
+- DynamicForm: dynamic-form-formik-yup
 
 # How?
 
